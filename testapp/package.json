@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
-    "test": "./node_modules/.bin/jest",
+    "test": "npx jest",
     "cdk": "cdk"
   },
   "devDependencies": {
