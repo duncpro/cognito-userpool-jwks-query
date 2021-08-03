@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc736dc9-f31d-4d5a-8225-ef80230817d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/cdk.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/cdk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/jest.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/main.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +24,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="3537" />
+    <option name="totalTimeSeconds" value="4234" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,14 +66,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-11" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/lib/node_modules/typescript/lib" />
   </component>
@@ -51,6 +82,19 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/teststack" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
