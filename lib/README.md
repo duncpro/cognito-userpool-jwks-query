@@ -1,12 +1,3 @@
-# Welcome to your CDK TypeScript Construct Library project!
+Access Cognito User Pool JWKS (JSON Web Key Set) in CDK Scripts.
 
-You should explore the contents of this project. It demonstrates a CDK Construct Library that includes a construct (`CdkJwks`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
-
-The construct defines an interface (`CdkJwksProps`) to configure the visibility timeout of the queue.
-
-## Useful commands
-
- * `npm run build`   compile typescript to js
- * `npm run watch`   watch for changes and compile
- * `npm run test`    perform the jest unit tests
+For usage instructions see the Git repo: https://github.com/duncpro/cognito-userpool-jwks-query.
