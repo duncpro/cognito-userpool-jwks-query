@@ -1,0 +1,27 @@
+{
+  "name": "cognito-userpool-jwks-query",
+  "version": "0.1.0",
+  "main": "main.js",
+  "types": "main.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@aws-cdk/assert": "1.116.0",
+    "@types/jest": "^26.0.10",
+    "@types/node": "10.17.27",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.2.0",
+    "typescript": "~3.9.7"
+  },
+  "peerDependencies": {
+    "@aws-cdk/core": "1.116.0"
+  },
+  "dependencies": {
+    "@aws-cdk/aws-lambda": "1.116.0",
+    "@aws-cdk/core": "1.116.0",
+    "@aws-cdk/custom-resources": "1.116.0"
+  }
+}
