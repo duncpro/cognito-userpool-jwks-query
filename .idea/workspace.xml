@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc736dc9-f31d-4d5a-8225-ef80230817d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lib/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="3424" />
+    <option name="totalTimeSeconds" value="3537" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />

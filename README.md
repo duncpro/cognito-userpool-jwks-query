@@ -26,4 +26,6 @@ class SomeStack extends Stack {
     }
 }
 ```
-Now you can verify Cognito JWTs inside your Lambda function!
+
+## Install via NPM
+`npm install cognito-userpool-jwks-query`
