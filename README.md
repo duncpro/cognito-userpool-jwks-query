@@ -1,4 +1,6 @@
 # cognito-userpool-jwks-query
+[![Build Status](https://travis-ci.com/duncpro/cognito-userpool-jwks-query.svg?branch=master)](https://travis-ci.com/duncpro/cognito-userpool-jwks-query)
+
 This is a small AWS CDK library which provides a single construct: `CognitoUserPoolJWKSQuery` which exposes
 the JSON Web Key Set for a Cognito User Pool in your CDK script. This is especially useful for serverless applications
 which need to verify cognito JWTs. Just pass `CognitoUserPoolJWKSQuery#getJWKS()` as an environment variable in your
