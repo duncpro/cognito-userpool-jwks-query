@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc736dc9-f31d-4d5a-8225-ef80230817d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/.npmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/cdk.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/cdk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/main.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/main.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/testapp/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="4234" />
+    <option name="totalTimeSeconds" value="4410" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
