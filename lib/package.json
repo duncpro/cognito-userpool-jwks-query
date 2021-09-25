@@ -1,6 +1,6 @@
 {
   "name": "cognito-userpool-jwks-query",
-  "version": "0.1.1",
+  "version": "1.118.0",
   "main": "main.js",
   "types": "main.d.ts",
   "scripts": {
